@@ -17,8 +17,8 @@
     "@capacitor/haptics": "7.0.0",
     "@capacitor/keyboard": "7.0.0",
     "@capacitor/status-bar": "7.0.0",
-    "@ionic/vue": "^8.5.0",
-    "@ionic/vue-router": "^8.5.0",
+    "@ionic/vue": "^8.5.1-dev.11742222905.16af9151",
+    "@ionic/vue-router": "^8.5.1-dev.11742222905.16af9151",
     "ionicons": "^7.4.0",
     "vue": "^3.3.0",
     "vue-router": "^4.5.0"
